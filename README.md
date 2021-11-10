@@ -5,7 +5,7 @@ Ian Otieno and Memory Wabwile.
 This is myserviser website.It contains all information on a project that we have worked on and the experience gained.
 
 ## setup/installation
-Click on the link  bellow to view the site; 
+Click on the link  bellow to view the site; https://ian-otieno.github.io/myserviser/
 ## Todo list
 Description<bbr>
 Installation Requirement<br>
@@ -21,7 +21,7 @@ The website works fine,no bugs.
 1)HTML  built the structure of the pages <br>2)CSS styled the pages
 
 ## Support and Contact Details
-Email Address; ian.otieno@student.moringaschool.com
+Email Address; ian.otieno@student.moringaschool.com and memory.wabwile@student.moringaschool.com
 
 ## License
 MIT License
